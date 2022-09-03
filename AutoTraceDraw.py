@@ -19,3 +19,4 @@ for i in range(len(datals)):
         t.right(datals[i][2])
     else:
         t.left(datals[i][2])
+print("绘制完成")
